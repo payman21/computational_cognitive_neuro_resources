@@ -50,4 +50,7 @@ Here, you'll find links to various tools, articles, datasets, and more related t
 ## Aricles/News
 
 - [The Transmitter](https://www.thetransmitter.org/) - The publication aims to deliver useful information, insights and tools to build bridges across neuroscience and advance research. 
-- [article](link) 
+- [article](link)
+
+## Aricles/News
+- [Useful resources for neuroscientists](https://github.com/sohaamir/neuro_resources)
