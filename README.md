@@ -28,8 +28,8 @@ Here, you'll find links to various tools, articles, datasets, and more related t
 
 ## Books
 
-- Computational Neuroscience
-- - [The Routledge Handbook of the Computational Mind](https://www.taylorfrancis.com/books/edit/10.4324/9781315643670/routledge-handbook-computational-mind-mark-sprevak-matteo-colombo) - An overview of computational approaches.
+- **Computational Neuroscience**
+  - [The Routledge Handbook of the Computational Mind](https://www.taylorfrancis.com/books/edit/10.4324/9781315643670/routledge-handbook-computational-mind-mark-sprevak-matteo-colombo) - An overview of computational approaches.
 - [Book](link) - A short description of the book and its relevance.
 - [Book](link) - A short description of the book and its relevance.
 - [Book](link) - A short description of the book and its relevance.
