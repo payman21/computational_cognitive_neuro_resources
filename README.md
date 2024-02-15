@@ -47,3 +47,7 @@ Here, you'll find links to various tools, articles, datasets, and more related t
 - [conference](link) - Information about the event and how to participate.
 - [conference](link) - Information about the event and how to participate.
 
+## Aricles/News
+
+- [The Transmitter](https://www.thetransmitter.org/) - The publication aims to deliver useful information, insights and tools to build bridges across neuroscience and advance research. 
+- [article](link) 
