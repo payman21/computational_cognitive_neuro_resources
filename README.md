@@ -53,4 +53,4 @@ Here, you'll find links to various tools, articles, datasets, and more related t
 - [article](link)
 
 ## Aricles/News
-- [Useful resources for neuroscientists](https://github.com/sohaamir/neuro_resources)
+- [neuro_resources](https://github.com/sohaamir/neuro_resources) -  Useful resources for neuroscientists
