@@ -54,3 +54,7 @@ Here, you'll find links to various tools, articles, datasets, and more related t
 
 ## Aricles/News
 - [neuro_resources](https://github.com/sohaamir/neuro_resources) -  Useful resources for neuroscientists
+
+## Other
+- [3D brain atlas](https://neurotorium.org/tool/brain-atlas/) -  Useful resources for neuroscientists
+
