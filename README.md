@@ -39,8 +39,10 @@ Here, you'll find links to various tools, articles, datasets, and more related t
 - [The Transmitter](https://www.thetransmitter.org/) - The publication aims to deliver useful information, insights and tools to build bridges across neuroscience and advance research. 
 
 
-## Aricles/News
+## Github Repos
 - [neuro_resources](https://github.com/sohaamir/neuro_resources) -  Useful resources for neuroscientists
+- [Methods in Neuroimaging] (https://github.com/smweis/methods_in_neuro) - A list of links and resources for the Methods in Neuroimaging Course (PSY 6930), University of Florida
+- 
 
 
 ## Other
