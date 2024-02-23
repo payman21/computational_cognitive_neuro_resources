@@ -1,4 +1,4 @@
-Computational Cognitive Neuroscience Resources
+# Computational Cognitive Neuroscience Resources  
 Here, you'll find links to various tools, articles, datasets, and more related to the field of Computational Cognitive Neuroscience.
 
 
