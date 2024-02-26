@@ -29,6 +29,7 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [Neurons: Beyond the Textbook](https://alleninstitute.org/resource/neurons-beyond-the-textbook/) - By Allen Institute
 - [RL Course by David Silver ](https://www.youtube.com/watch?v=2pWv7GOvuf0) - YouTube videos
 - [Behavioural modelling](http://www.hannekedenouden.ruhosting.nl/RLtutorial/Instructions.html) - Reinforcment learning and Bayesian learning
+- [How to Build a Brain from Scratch](https://humaninformationprocessing.com/teaching/) - Christopher Summerfield's lab, Oxford University
 
 
 ## Tools
