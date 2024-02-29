@@ -17,6 +17,10 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [Methods in Neuroimaging](https://github.com/smweis/methods_in_neuro) - A list of links and resources for the Methods in Neuroimaging Course (PSY 6930), University of Florida.
 - [UD_repronim](https://github.com/juliagoolia28/UD_repronim?tab=readme-ov-file) - ReproNim: A Center for Reproducible Neuroimaging Computation.
 
+## Code
+- [fast-slow brain network model](https://github.com/BrainModes/fast-slow/) - Code from paper [Learning how network structure shapes decision-making for bio-inspired computing](https://www.nature.com/articles/s41467-023-38626-y)
+
+
 
 ## Wrokshops, Courses and Summer Schools
 - [Short courses and summer schools](https://docs.google.com/spreadsheets/d/1nezjxkU8kGsA9MUI3Eph60s303VwfQLqMSNrSnnRSzk/edit#gid=1015366364) -  various comp neuro / MEEG / LFP short courses and summer schools.
