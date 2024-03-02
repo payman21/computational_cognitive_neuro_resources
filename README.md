@@ -25,7 +25,7 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 
 
 
-## Wrokshops, Courses and Summer Schools
+## Wrokshops, Courses, Tutorials and Summer Schools
 - [Short courses and summer schools](https://docs.google.com/spreadsheets/d/1nezjxkU8kGsA9MUI3Eph60s303VwfQLqMSNrSnnRSzk/edit#gid=1015366364) -  various comp neuro / MEEG / LFP short courses and summer schools.
 - [Gatsby Bridging Programme](https://www.ucl.ac.uk/gatsby/study-and-work/gatsby-bridging-programme) - The Gatsby Bridging Programme is a mathematics course for Theoretical Neuroscience and/or Machine Learning.
 - [Mathematical Tools for Neural and Cognitive Science](https://www.cns.nyu.edu/~eero/math-tools/) - Graduate course offered by NYU
@@ -38,6 +38,8 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [RL Course by David Silver ](https://www.youtube.com/watch?v=2pWv7GOvuf0) - YouTube videos
 - [Behavioural modelling](http://www.hannekedenouden.ruhosting.nl/RLtutorial/Instructions.html) - Reinforcment learning and Bayesian learning
 - [How to Build a Brain from Scratch](https://humaninformationprocessing.com/teaching/) - Christopher Summerfield's lab, Oxford University
+- [NeuroML](https://neuroml.org/) NeuroML is an international, collaborative initiative to develop a language and associated software ecosystem for working with detailed models of neural systems.
+
 
 
 ## Tools
