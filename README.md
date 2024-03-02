@@ -17,6 +17,7 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [neuro_resources](https://github.com/sohaamir/neuro_resources) -  Useful resources for neuroscientists.
 - [Methods in Neuroimaging](https://github.com/smweis/methods_in_neuro) - A list of links and resources for the Methods in Neuroimaging Course (PSY 6930), University of Florida.
 - [UD_repronim](https://github.com/juliagoolia28/UD_repronim?tab=readme-ov-file) - ReproNim: A Center for Reproducible Neuroimaging Computation.
+- [Awesome Vision Neuroscience](https://github.com/cosyne2024-sos/awesome-vision-neuroscience) - A curated collection of resources and research on vision neuroscience.
 
 ## Code
 - [fast-slow brain network model](https://github.com/BrainModes/fast-slow/) - Code from paper [Learning how network structure shapes decision-making for bio-inspired computing](https://www.nature.com/articles/s41467-023-38626-y)
