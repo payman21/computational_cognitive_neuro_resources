@@ -39,6 +39,7 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [Behavioural modelling](http://www.hannekedenouden.ruhosting.nl/RLtutorial/Instructions.html) - Reinforcment learning and Bayesian learning
 - [How to Build a Brain from Scratch](https://humaninformationprocessing.com/teaching/) - Christopher Summerfield's lab, Oxford University
 - [NeuroML](https://neuroml.org/) NeuroML is an international, collaborative initiative to develop a language and associated software ecosystem for working with detailed models of neural systems.
+- [Neurostars](https://neurostars.org/) - 
 
 
 
@@ -76,5 +77,6 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [3D brain atlas](https://neurotorium.org/tool/brain-atlas/) -  Useful resources for neuroscientists.
 - [Some good resources](https://www.antoniahamilton.com/matlab.html) - Antonia Hamilton's lab for Social Cognition
 - [Computational psychiatry resources](https://acplab.org/resources/) - APPLIED COMPUTATIONAL PSYCHIATRY LAB, UCL
+- [International Neuroinformatics Coordinating Facility (INCF)](https://www.incf.org/about/who-we-are) - The mission of INCF network is to promote the uptake of FAIR data management practices in neuroscience through the development of standards and best practices that support open, FAIR, and citable neuroscience.
 
 
