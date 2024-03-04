@@ -12,6 +12,7 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [NeuroImaging Tools & Resources Collaboratory](https://www.nitrc.org/include/about_us.php) - A free database of fMRI data used in peer reviewed studies (fMRIDC).
 - [International Brain Laboratory](https://www.internationalbrainlab.com/#home-new) - The International Brain Laboratory releases all data sets within 12 months of collection, or upon acceptance for publication
 - [Neuro Data Without Borders](https://www.nwb.org/) - Neurodata Without Borders (NWB) is a data standard for neurophysiology, providing neuroscientists with a common standard to share, archive, use, and build analysis tools for neurophysiology data.
+- [Copmutational psychiatry data](https://eiko-fried.com/data/) - By Dr Eiko Fried
 
 ## Github Repos
 - [neuro_resources](https://github.com/sohaamir/neuro_resources) -  Useful resources for neuroscientists.
