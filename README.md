@@ -60,6 +60,7 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [Society for Nueroscience](https://www.sfn.org/meetings) 
 - [Cosyne](https://www.cosyne.org/) - Forum for the exchange of empirical and theoretical approaches to problems in systems neuroscience.
 - [International Conference on Artificial Neural Networks (ICANN)](https://e-nns.org/icanns/) - Organized by European Neural Network Society.
+- [Organization for Computational Neurosciences](https://www.cnsorg.org/)
 
 
 ## Journals
