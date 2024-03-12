@@ -48,6 +48,7 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 ## Tools
 - [Neurodesk](https://www.neurodesk.org/)- A flexible and scalable data analysis environment for reproducible neuroimaging with Neurodesk.
 - [The Virtual Brain](https://www.thevirtualbrain.org/tvb/zwei) - Brain simulation
+- [DeepPrep](https://github.com/indilab/deepprep)- An accelerated, scalable, and robust pipeline for neuroimaging preprocessing empowered by deep learning ([paper](https://www.biorxiv.org/content/10.1101/2024.03.06.581108v1.abstract?%3Fcollection=))
 
 
 ## Books
