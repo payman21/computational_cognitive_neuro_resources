@@ -47,6 +47,7 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 
 ## Tools
 - [Neurodesk](https://www.neurodesk.org/)- A flexible and scalable data analysis environment for reproducible neuroimaging with Neurodesk.
+- [The Virtual Brain](https://www.thevirtualbrain.org/tvb/zwei) - Brain simulation
 
 
 ## Books
