@@ -9,10 +9,11 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [DRYAD](https://datadryad.org/stash) - Dryad is an open data publishing platform and a community committed to the open availability and routine re-use of all research data.
 - [Zenodo](https://zenodo.org/) - Open Science platform.
 - [Healthy Brain Network](https://brain.labsolver.org/hbn.html) - The Healthy Brain Network dataset (MRI).
-- [NeuroImaging Tools & Resources Collaboratory](https://www.nitrc.org/include/about_us.php) - A free database of fMRI data used in peer reviewed studies (fMRIDC).
+- [The fMRI Data Center](https://www.nitrc.org/include/about_us.php) - A free database of fMRI data used in peer reviewed studies (fMRIDC).
 - [International Brain Laboratory](https://www.internationalbrainlab.com/#home-new) - The International Brain Laboratory releases all data sets within 12 months of collection, or upon acceptance for publication
 - [Neuro Data Without Borders](https://www.nwb.org/) - Neurodata Without Borders (NWB) is a data standard for neurophysiology, providing neuroscientists with a common standard to share, archive, use, and build analysis tools for neurophysiology data.
 - [Copmutational psychiatry data](https://eiko-fried.com/data/) - By Dr Eiko Fried
+- [OpenNEURO](https://openneuro.org/) - A free and open platform for validating and sharing BIDS-compliant MRI, PET, MEG, EEG, and iEEG data
 
 ## Github Repos
 - [neuro_resources](https://github.com/sohaamir/neuro_resources) -  Useful resources for neuroscientists.
@@ -24,7 +25,7 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [fast-slow brain network model](https://github.com/BrainModes/fast-slow/) - Code from paper [Learning how network structure shapes decision-making for bio-inspired computing](https://www.nature.com/articles/s41467-023-38626-y)
 - [An Easy-to-Follow Handbook for EEG Data Analysis based on Python](https://osf.io/preprints/psyarxiv/dcmke) - It's designed as a very easy-to-follow learning guide for anyone looking to get started with EEG data processing using Python.
 - [Functio-Structural Current (FSC) analysis](https://github.com/vilsaira/FSC)- Python code to combine functional and structural #brain connectivity (fc&sc) matrices.
-- [ Heterogenous Neural Model (HNM) for large scale modelling of brain activity](https://github.com/KevinAquino/HNM)
+- [Heterogenous Neural Model (HNM) for large scale modelling of brain activity](https://github.com/KevinAquino/HNM)
 
 
 
