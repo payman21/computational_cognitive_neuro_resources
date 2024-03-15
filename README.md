@@ -15,6 +15,7 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [Copmutational psychiatry data](https://eiko-fried.com/data/) - By Dr Eiko Fried
 - [OpenNEURO](https://openneuro.org/) - A free and open platform for validating and sharing BIDS-compliant MRI, PET, MEG, EEG, and iEEG data
 - [BrainMap](https://www.brainmap.org/) - BrainMap is a database of published task and structural neuroimaging experiments with coordinate-based results (x,y,z)
+- [Neurosynth](https://neurosynth.org/) - Neurosynth is a platform for large-scale, automated synthesis of functional magnetic resonance imaging (fMRI) data.
 
 ## Github Repos
 - [neuro_resources](https://github.com/sohaamir/neuro_resources) -  Useful resources for neuroscientists.
@@ -27,7 +28,6 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [An Easy-to-Follow Handbook for EEG Data Analysis based on Python](https://osf.io/preprints/psyarxiv/dcmke) - It's designed as a very easy-to-follow learning guide for anyone looking to get started with EEG data processing using Python.
 - [Functio-Structural Current (FSC) analysis](https://github.com/vilsaira/FSC)- Python code to combine functional and structural #brain connectivity (fc&sc) matrices.
 - [Heterogenous Neural Model (HNM) for large scale modelling of brain activity](https://github.com/KevinAquino/HNM)
-
 
 
 ## Wrokshops, Courses, Tutorials and Summer Schools
