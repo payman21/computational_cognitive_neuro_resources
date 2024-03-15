@@ -14,6 +14,7 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [Neuro Data Without Borders](https://www.nwb.org/) - Neurodata Without Borders (NWB) is a data standard for neurophysiology, providing neuroscientists with a common standard to share, archive, use, and build analysis tools for neurophysiology data.
 - [Copmutational psychiatry data](https://eiko-fried.com/data/) - By Dr Eiko Fried
 - [OpenNEURO](https://openneuro.org/) - A free and open platform for validating and sharing BIDS-compliant MRI, PET, MEG, EEG, and iEEG data
+- [BrainMap](https://www.brainmap.org/) - BrainMap is a database of published task and structural neuroimaging experiments with coordinate-based results (x,y,z)
 
 ## Github Repos
 - [neuro_resources](https://github.com/sohaamir/neuro_resources) -  Useful resources for neuroscientists.
