@@ -54,6 +54,7 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [The Virtual Brain](https://www.thevirtualbrain.org/tvb/zwei) - Brain simulation [Github repo](https://github.com/AmoghJohri/tvb-root/tree/f68ce6b8c94a50d845ab82246d2543d4ed88f4bf)
 - [DeepPrep](https://github.com/indilab/deepprep)- An accelerated, scalable, and robust pipeline for neuroimaging preprocessing empowered by deep learning ([paper](https://www.biorxiv.org/content/10.1101/2024.03.06.581108v1.abstract?%3Fcollection=))
 - [fMRIPrep](https://fmriprep.org/en/stable/) - fMRIPrep: A Robust Preprocessing Pipeline for fMRI Data
+- [CorticalParcellation](https://freesurfer.net/fswiki/CorticalParcellation_DU15NET) - A novel 15-network parcellation of the cerebral cortex, constructed by estimating networks from functional MRI (fMRI) data 
 
 
 ## Books
