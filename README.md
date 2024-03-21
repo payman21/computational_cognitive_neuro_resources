@@ -29,6 +29,7 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [Functio-Structural Current (FSC) analysis](https://github.com/vilsaira/FSC)- Python code to combine functional and structural #brain connectivity (fc&sc) matrices.
 - [Heterogenous Neural Model (HNM) for large scale modelling of brain activity](https://github.com/KevinAquino/HNM)
 - [Brain Dynamics Toolbox](https://bdtoolbox.org/) - The Brain Dynamics Toolbox is open-source matlab software for simulating bespoke dynamical systems in neuroscience and beyond.
+- [Connectomics Lab](https://github.com/connectomicslab) - Open source code by Prof. Patric Hagmann's lab (University of Lausanne)
 
 
 ## Wrokshops, Courses, Tutorials and Summer Schools
