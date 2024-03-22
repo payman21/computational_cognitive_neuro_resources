@@ -49,7 +49,6 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [Neurostars](https://neurostars.org/) - 
 
 
-
 ## Tools
 - [Neurodesk](https://www.neurodesk.org/)- A flexible and scalable data analysis environment for reproducible neuroimaging with Neurodesk.
 - [The Virtual Brain](https://www.thevirtualbrain.org/tvb/zwei) - Brain simulation [Github repo](https://github.com/AmoghJohri/tvb-root/tree/f68ce6b8c94a50d845ab82246d2543d4ed88f4bf)
@@ -57,6 +56,7 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [fMRIPrep](https://fmriprep.org/en/stable/) - fMRIPrep: A Robust Preprocessing Pipeline for fMRI Data
 - [CorticalParcellation](https://freesurfer.net/fswiki/CorticalParcellation_DU15NET) - A novel 15-network parcellation of the cerebral cortex, constructed by estimating networks from functional MRI (fMRI) data
 - [NEST](https://www.nest-simulator.org/) - NEST is a simulator for spiking neural network models that focuses on the dynamics, size and structure of neural systems rather than on the exact morphology of individual neurons.
+- [BrainPy](https://github.com/brainpy/BrainPy)BrainPy is a flexible, efficient, and extensible framework for computational neuroscience and brain-inspired computation
 
 
 ## Books
