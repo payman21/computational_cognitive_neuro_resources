@@ -46,7 +46,8 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [Behavioural modelling](http://www.hannekedenouden.ruhosting.nl/RLtutorial/Instructions.html) - Reinforcment learning and Bayesian learning
 - [How to Build a Brain from Scratch](https://humaninformationprocessing.com/teaching/) - Christopher Summerfield's lab, Oxford University
 - [NeuroML](https://neuroml.org/) NeuroML is an international, collaborative initiative to develop a language and associated software ecosystem for working with detailed models of neural systems.
-- [Neurostars](https://neurostars.org/) - 
+- [Neurostars](https://neurostars.org/) - A question and answer forum for neuroscience researchers
+- [Brain dynamics on the connectome](https://sinergia-connectomics-summerschool-2021.github.io/#lect_2_2) - Talks and tutroial from a network neuroscience summer school at University of Lausanne
 
 
 ## Tools
