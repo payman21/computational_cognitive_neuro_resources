@@ -1,7 +1,11 @@
 # Computational Cognitive Neuroscience Resources  
 Here, you'll find links to various tools, articles, datasets, and more, related to the field of Computational Cognitive Neuroscience.
 
-
+## Network Neuroscience
+- [NETWORK NEUROSCIENCE 2024]([https://netsci2024.com/en](https://networkneuroscience.github.io/)) -  NetSci 2024 in Québec City from June 16th to 21st 2024. 
+- []() -
+- []() -
+- []() -
 ## Datasets
 - [THINGS-data](https://plus.figshare.com/collections/THINGS-data_A_multimodal_collection_of_large-scale_datasets_for_investigating_object_representations_in_brain_and_behavior/6161151) - A multimodal collection of large-scale datasets for investigating object representations in brain and behavior.
 - [Brain Imaging Data Structure](https://bids.neuroimaging.io/) - A simple and intuitive way to organize and describe your neuroimaging and behavioral data.
@@ -58,7 +62,10 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [fMRIPrep](https://fmriprep.org/en/stable/) - fMRIPrep: A Robust Preprocessing Pipeline for fMRI Data
 - [CorticalParcellation](https://freesurfer.net/fswiki/CorticalParcellation_DU15NET) - A novel 15-network parcellation of the cerebral cortex, constructed by estimating networks from functional MRI (fMRI) data
 - [NEST](https://www.nest-simulator.org/) - NEST is a simulator for spiking neural network models that focuses on the dynamics, size and structure of neural systems rather than on the exact morphology of individual neurons.
-- [BrainPy](https://github.com/brainpy/BrainPy)BrainPy is a flexible, efficient, and extensible framework for computational neuroscience and brain-inspired computation
+- [BrainPy](https://github.com/brainpy/BrainPy) - BrainPy is a flexible, efficient, and extensible framework for computational neuroscience and brain-inspired computation
+- [pynapple](https://pynapple-org.github.io/pynapple/) - pynapple is a light-weight python library for neurophysiological data analysis.
+- [fastplotlib](https://github.com/fastplotlib/fastplotlib) - fastplotlib is a next-gen plotting library built using the pygfx rendering engine that can utilize modern GPUs so it is very fast! It is an expressive plotting library that enables rapid prototyping for large scale explorative scientific visualization.
+- [nemos](https://github.com/flatironinstitute/nemos) - nemos is a statistical modeling framework for systems neuroscience, with a current focus on electrophysiology, fully compatible with pynapple. As of today, its core functionality includes the implementation of the Generalized Linear Model (GLM) for spike train analysis.
 
 
 ## Books
