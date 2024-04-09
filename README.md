@@ -66,7 +66,8 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [pynapple](https://pynapple-org.github.io/pynapple/) - pynapple is a light-weight python library for neurophysiological data analysis.
 - [fastplotlib](https://github.com/fastplotlib/fastplotlib) - fastplotlib is a next-gen plotting library built using the pygfx rendering engine that can utilize modern GPUs so it is very fast! It is an expressive plotting library that enables rapid prototyping for large scale explorative scientific visualization.
 - [nemos](https://github.com/flatironinstitute/nemos) - nemos is a statistical modeling framework for systems neuroscience, with a current focus on electrophysiology, fully compatible with pynapple. As of today, its core functionality includes the implementation of the Generalized Linear Model (GLM) for spike train analysis.
-- [MRIcroGL](https://www.nitrc.org/projects/mricrogl) - MRIcroGL allows you to view 2D slices and renderings of your brain imaging data. 
+- [MRIcroGL](https://www.nitrc.org/projects/mricrogl) - MRIcroGL allows you to view 2D slices and renderings of your brain imaging data.
+- [FreeSurfer](https://surfer.nmr.mgh.harvard.edu/) - An open source neuroimaging toolkit for processing, analyzing, and visualizing human brain MR images
 
 
 ## Books
