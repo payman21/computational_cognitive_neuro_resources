@@ -102,6 +102,7 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [Some good resources](https://www.antoniahamilton.com/matlab.html) - Antonia Hamilton's lab for Social Cognition
 - [Computational psychiatry resources](https://acplab.org/resources/) - APPLIED COMPUTATIONAL PSYCHIATRY LAB, UCL
 - [International Neuroinformatics Coordinating Facility (INCF)](https://www.incf.org/about/who-we-are) - The mission of INCF network is to promote the uptake of FAIR data management practices in neuroscience through the development of standards and best practices that support open, FAIR, and citable neuroscience.
-- [NeuroRSE](https://neurorse.flatironinstitute.org/) - The NeuroRSE group at Flatiron Institute Center for Computational Neuroscience builds and maintains open source software for computational and systems neuroscience. 
+- [NeuroRSE](https://neurorse.flatironinstitute.org/) - The NeuroRSE group at Flatiron Institute Center for Computational Neuroscience builds and maintains open source software for computational and systems neuroscience.
+- [Advanced Research + Invention Agency (ARIA)[] - ARIA is an R&D funding agency built to unlock scientific and technological breakthroughs that benefit everyone. Working on high-performance neural interfacing.
 
 
