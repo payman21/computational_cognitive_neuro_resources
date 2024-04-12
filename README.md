@@ -68,6 +68,7 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [nemos](https://github.com/flatironinstitute/nemos) - nemos is a statistical modeling framework for systems neuroscience, with a current focus on electrophysiology, fully compatible with pynapple. As of today, its core functionality includes the implementation of the Generalized Linear Model (GLM) for spike train analysis.
 - [MRIcroGL](https://www.nitrc.org/projects/mricrogl) - MRIcroGL allows you to view 2D slices and renderings of your brain imaging data.
 - [FreeSurfer](https://surfer.nmr.mgh.harvard.edu/) - An open source neuroimaging toolkit for processing, analyzing, and visualizing human brain MR images
+- [NLTools](https://nltools.org/) - NLTools is a Python package for analyzing neuroimaging data.
 
 
 ## Books
