@@ -53,6 +53,7 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [NeuroML](https://neuroml.org/) NeuroML is an international, collaborative initiative to develop a language and associated software ecosystem for working with detailed models of neural systems.
 - [Neurostars](https://neurostars.org/) - A question and answer forum for neuroscience researchers
 - [Brain dynamics on the connectome](https://sinergia-connectomics-summerschool-2021.github.io/#lect_2_2) - Talks and tutroial from a network neuroscience summer school at University of Lausanne
+- [Neuro4ML](https://neuro4ml.github.io/) - Neuroscience for machine learners
 
 
 ## Tools
