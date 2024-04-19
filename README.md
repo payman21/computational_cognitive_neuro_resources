@@ -70,6 +70,7 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [MRIcroGL](https://www.nitrc.org/projects/mricrogl) - MRIcroGL allows you to view 2D slices and renderings of your brain imaging data.
 - [FreeSurfer](https://surfer.nmr.mgh.harvard.edu/) - An open source neuroimaging toolkit for processing, analyzing, and visualizing human brain MR images
 - [NLTools](https://nltools.org/) - NLTools is a Python package for analyzing neuroimaging data.
+- [Human Neocortical Neurosolver (HNN)](https://hnn.brown.edu/) - HNN gives researchers and clinicians the ability to test and develop hypotheses on the circuit mechanism underlying their EEG/MEG data in an easy-to-use environment. 
 
 
 ## Books
