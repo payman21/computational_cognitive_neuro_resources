@@ -55,6 +55,12 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [Brain dynamics on the connectome](https://sinergia-connectomics-summerschool-2021.github.io/#lect_2_2) - Talks and tutroial from a network neuroscience summer school at University of Lausanne
 - [Neuro4ML](https://neuro4ml.github.io/) - Neuroscience for machine learners
 
+## Creating Scientific Figures
+- [Barbaham Bioinformatics](https://www.bioinformatics.babraham.ac.uk/training.html) - Great source for many stats, programming and plotting courses
+- [making figures](https://github.com/MichaelClerx/making-figures) - Tips for making scientific figures
+- [Scientific Inkscape](https://github.com/burghoff/Scientific-Inkscape) - Extensions for figure editing and resizing
+- [ScientificFigures](https://github.com/nrokh/ScientificFigures/tree/main?tab=readme-ov-file#inkscape-101-) - Explaining scientific findings through figures in publications, presentations, and posters
+- [Inkspace tutorial](https://www.youtube.com/watch?v=F6ll37NOgXc) - on YouTube
 
 ## Tools
 - [Neurodesk](https://www.neurodesk.org/)- A flexible and scalable data analysis environment for reproducible neuroimaging with Neurodesk.
@@ -107,6 +113,7 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [International Neuroinformatics Coordinating Facility (INCF)](https://www.incf.org/about/who-we-are) - The mission of INCF network is to promote the uptake of FAIR data management practices in neuroscience through the development of standards and best practices that support open, FAIR, and citable neuroscience.
 - [NeuroRSE](https://neurorse.flatironinstitute.org/) - The NeuroRSE group at Flatiron Institute Center for Computational Neuroscience builds and maintains open source software for computational and systems neuroscience.
 - [Advanced Research + Invention Agency (ARIA)[https://www.aria.org.uk/our-team/] - ARIA is an R&D funding agency built to unlock scientific and technological breakthroughs that benefit everyone. Working on high-performance neural interfacing.
-- [BRAIN Initiative](https://braininitiative.nih.gov/about/overview) - The Brain Research Through Advancing Innovative Neurotechnologies® Initiative, or The BRAIN Initiative®, is a partnership between Federal and non-Federal partners with a common goal of accelerating the development of innovative neurotechnologies. 
+- [BRAIN Initiative](https://braininitiative.nih.gov/about/overview) - The Brain Research Through Advancing Innovative Neurotechnologies® Initiative, or The BRAIN Initiative®, is a partnership between Federal and non-Federal partners with a common goal of accelerating the development of innovative neurotechnologies.
+- [MKDocs](https://www.mkdocs.org/) - MkDocs is a fast, simple and downright gorgeous static site generator that's geared towards building project documentation.  
 
 
