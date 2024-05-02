@@ -3,9 +3,9 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 
 ## Network Neuroscience
 - [NETWORK NEUROSCIENCE 2024]([https://netsci2024.com/en](https://networkneuroscience.github.io/)) -  NetSci 2024 in Québec City from June 16th to 21st 2024. 
-- []() -
-- []() -
-- []() -
+- [The Brain Connectivity Toolbox](https://sites.google.com/site/bctnet/) - The Brain Connectivity Toolbox is a MATLAB toolbox for complex brain-network analysis. 
+- [Brain Connectivity Toolbox for Python](https://pypi.org/project/bctpy/) 
+- [NetworkX](https://networkx.org/documentation/stable/index.html) - NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
 ## Datasets
 - [THINGS-data](https://plus.figshare.com/collections/THINGS-data_A_multimodal_collection_of_large-scale_datasets_for_investigating_object_representations_in_brain_and_behavior/6161151) - A multimodal collection of large-scale datasets for investigating object representations in brain and behavior.
 - [Brain Imaging Data Structure](https://bids.neuroimaging.io/) - A simple and intuitive way to organize and describe your neuroimaging and behavioral data.
