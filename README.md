@@ -116,6 +116,7 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [NeuroRSE](https://neurorse.flatironinstitute.org/) - The NeuroRSE group at Flatiron Institute Center for Computational Neuroscience builds and maintains open source software for computational and systems neuroscience.
 - [Advanced Research + Invention Agency (ARIA)[https://www.aria.org.uk/our-team/] - ARIA is an R&D funding agency built to unlock scientific and technological breakthroughs that benefit everyone. Working on high-performance neural interfacing.
 - [BRAIN Initiative](https://braininitiative.nih.gov/about/overview) - The Brain Research Through Advancing Innovative Neurotechnologies® Initiative, or The BRAIN Initiative®, is a partnership between Federal and non-Federal partners with a common goal of accelerating the development of innovative neurotechnologies.
-- [MKDocs](https://www.mkdocs.org/) - MkDocs is a fast, simple and downright gorgeous static site generator that's geared towards building project documentation.  
+- [MKDocs](https://www.mkdocs.org/) - MkDocs is a fast, simple and downright gorgeous static site generator that's geared towards building project documentation.
+- [EBRAINS](https://www.ebrains.eu/) - EBRAINS is a platform to share models, tools and data. 
 
 
