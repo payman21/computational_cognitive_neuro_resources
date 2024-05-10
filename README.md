@@ -20,6 +20,7 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [OpenNEURO](https://openneuro.org/) - A free and open platform for validating and sharing BIDS-compliant MRI, PET, MEG, EEG, and iEEG data
 - [BrainMap](https://www.brainmap.org/) - BrainMap is a database of published task and structural neuroimaging experiments with coordinate-based results (x,y,z)
 - [Neurosynth](https://neurosynth.org/) - Neurosynth is a platform for large-scale, automated synthesis of functional magnetic resonance imaging (fMRI) data.
+- [Poldracklab Software and Data](https://poldracklab.org/software.html) 
 
 ## Github Repos
 - [neuro_resources](https://github.com/sohaamir/neuro_resources) -  Useful resources for neuroscientists.
