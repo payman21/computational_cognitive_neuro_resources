@@ -59,6 +59,7 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [Brain dynamics on the connectome](https://sinergia-connectomics-summerschool-2021.github.io/#lect_2_2) - Talks and tutroial from a network neuroscience summer school at University of Lausanne
 - [Neuro4ML](https://neuro4ml.github.io/) - Neuroscience for machine learners
 - [Neuronal Dynamics](https://neuronaldynamics.epfl.ch/online/index.html) - From single neurons to networks and models of cognition
+- [EEG/ERP Analysis with Python and MNE: An Introductory Course](https://www.udemy.com/course/eegerp-analysis-with-python-and-mne-an-introductory-course/?couponCode=ST21MT61124) - Recommended udemy course
 
 ## Creating Scientific Figures
 - [Barbaham Bioinformatics](https://www.bioinformatics.babraham.ac.uk/training.html) - Great source for many stats, programming and plotting courses
