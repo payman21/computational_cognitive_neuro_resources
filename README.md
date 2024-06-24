@@ -62,6 +62,7 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [Neuro4ML](https://neuro4ml.github.io/) - Neuroscience for machine learners
 - [Neuronal Dynamics](https://neuronaldynamics.epfl.ch/online/index.html) - From single neurons to networks and models of cognition
 - [EEG/ERP Analysis with Python and MNE: An Introductory Course](https://www.udemy.com/course/eegerp-analysis-with-python-and-mne-an-introductory-course/?couponCode=ST21MT61124) - Recommended udemy course
+- [Mathematics of Neuroscience and AI](https://www.youtube.com/playlist?list=PLA59nMLAkDyiyYoISlQDDnMY4pxKmTsBC) - Mathematics of Neuroscience and AI 2024 (Rome, 28-31st May 2024)
 
 ## Creating Scientific Figures
 - [Barbaham Bioinformatics](https://www.bioinformatics.babraham.ac.uk/training.html) - Great source for many stats, programming and plotting courses
