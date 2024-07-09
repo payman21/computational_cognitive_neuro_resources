@@ -88,6 +88,7 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [NLTools](https://nltools.org/) - NLTools is a Python package for analyzing neuroimaging data.
 - [Human Neocortical Neurosolver (HNN)](https://hnn.brown.edu/) - HNN gives researchers and clinicians the ability to test and develop hypotheses on the circuit mechanism underlying their EEG/MEG data in an easy-to-use environment.
 - [brainlife](https://brainlife.io/about/) - Open-source, free and secure reproducible neuroscience analysis platform
+- [Neuroinformatics Unit (NIU) at Gatsby Computational Neuroscience Unit](https://neuroinformatics.dev/)- The NIU is dedicated to the development of high quality, accurate, robust, easy to use and maintainable open-source software for neuroscience and machine learning.
 
 
 ## Books
