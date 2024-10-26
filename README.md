@@ -66,7 +66,8 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [EEG/ERP Analysis with Python and MNE: An Introductory Course](https://www.udemy.com/course/eegerp-analysis-with-python-and-mne-an-introductory-course/?couponCode=ST21MT61124) - Recommended udemy course
 - [Mathematics of Neuroscience and AI](https://www.youtube.com/playlist?list=PLA59nMLAkDyiyYoISlQDDnMY4pxKmTsBC) - Mathematics of Neuroscience and AI 2024 (Rome, 28-31st May 2024)
 - [Cambridge University Imaging Wiki](https://imaging.mrc-cbu.cam.ac.uk/imaging/CbuImaging) - Hosts a wealth of information on the design and analysis fMRI studies.
-- [Neurohackademy](https://neurohackademy.org/)- Neurohackademy is a summer school in neuroimaging and data science, held at the University of Washington eScience Institute. Recordings from previous workshops are available. 
+- [Neurohackademy](https://neurohackademy.org/)- Neurohackademy is a summer school in neuroimaging and data science, held at the University of Washington eScience Institute. Recordings from previous workshops are available.
+- [NeuroAI_Trainee_Resources](https://github.com/8erberg/NeuroAI_Trainee_Resources) - Resources accompanying an upcoming publication on the training of early career researchers in NeuroAI
 
 ## Creating Scientific Figures
 - [Barbaham Bioinformatics](https://www.bioinformatics.babraham.ac.uk/training.html) - Great source for many stats, programming and plotting courses
