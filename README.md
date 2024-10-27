@@ -109,6 +109,8 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [Cosyne](https://www.cosyne.org/) - Forum for the exchange of empirical and theoretical approaches to problems in systems neuroscience.
 - [International Conference on Artificial Neural Networks (ICANN)](https://e-nns.org/icanns/) - Organized by European Neural Network Society.
 - [Organization for Computational Neurosciences](https://www.cnsorg.org/)
+- [Organization for Human Brain Mapping](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3298)
+- [Organization for Computational Neuroscience](https://www.cnsorg.org/)
 
 
 ## Journals
