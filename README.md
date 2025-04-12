@@ -10,7 +10,6 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [WhoBPyT](https://github.com/GriffithsLab/whobpyt) - Whole-Brain Modelling in PyTorch
 - [Blue Brain Portal](https://portal.bluebrain.epfl.ch/) - Resources for the neuroscientific and the wider scientific community to further research and develop the field of simulation neuroscience.
 
-
 ## Datasets
 - [THINGS-data](https://plus.figshare.com/collections/THINGS-data_A_multimodal_collection_of_large-scale_datasets_for_investigating_object_representations_in_brain_and_behavior/6161151) - A multimodal collection of large-scale datasets for investigating object representations in brain and behavior.
 - [Brain Imaging Data Structure](https://bids.neuroimaging.io/) - A simple and intuitive way to organize and describe your neuroimaging and behavioral data.
@@ -41,6 +40,7 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [Awesome Vision Neuroscience](https://github.com/cosyne2024-sos/awesome-vision-neuroscience) - A curated collection of resources and research on vision neuroscience.
 - [NeuroGym](https://github.com/neurogym/neurogym) - NeuroGym is a curated collection of neuroscience tasks with a common interface. The goal is to facilitate training of neural network models on neuroscience tasks.
 - [awesome-computational-neuro-science](https://github.com/realamirhe/awesome-computational-neuro-science)
+- [torch_brain](https://github.com/neuro-galaxy/torch_brain) - torch_brain is a Python library for various deep learning models designed for neuroscience.
 
 ## Code
 - [fast-slow brain network model](https://github.com/BrainModes/fast-slow/) - Code from paper [Learning how network structure shapes decision-making for bio-inspired computing](https://www.nature.com/articles/s41467-023-38626-y)
