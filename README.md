@@ -141,6 +141,6 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [EBRAINS](https://www.ebrains.eu/) - EBRAINS is a platform to share models, tools and data. 
 
 ## 2025
-- [NeuroVault] (https://neurovault.org/) - A public repository of unthresholded statistical maps, parcellations, and atlases of the brain.
-- [neuromap] (https://github.com/netneurolab/neuromaps) - he neuromaps toolbox is designed to help researchers make easy, statistically-rigorous comparisons between brain maps (or brain annotations). 
-- [JuSpace] (https://github.com/juryxy/JuSpace) - JuSpace is a software package for the integration of different imaging modalities with positron emission tomography derived neurophysiological measures. 
+- [NeuroVault](https://neurovault.org/) - A public repository of unthresholded statistical maps, parcellations, and atlases of the brain.
+- [neuromap](https://github.com/netneurolab/neuromaps) - he neuromaps toolbox is designed to help researchers make easy, statistically-rigorous comparisons between brain maps (or brain annotations). 
+- [JuSpace](https://github.com/juryxy/JuSpace) - JuSpace is a software package for the integration of different imaging modalities with positron emission tomography derived neurophysiological measures. 
