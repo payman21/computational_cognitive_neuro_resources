@@ -99,6 +99,9 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [Human Neocortical Neurosolver (HNN)](https://hnn.brown.edu/) - HNN gives researchers and clinicians the ability to test and develop hypotheses on the circuit mechanism underlying their EEG/MEG data in an easy-to-use environment.
 - [brainlife](https://brainlife.io/about/) - Open-source, free and secure reproducible neuroscience analysis platform
 - [Neuroinformatics Unit (NIU) at Gatsby Computational Neuroscience Unit](https://neuroinformatics.dev/)- The NIU is dedicated to the development of high quality, accurate, robust, easy to use and maintainable open-source software for neuroscience and machine learning.
+- [neuromaps](https://github.com/netneurolab/neuromaps) - The neuromaps toolbox is designed to help researchers make easy, statistically-rigorous comparisons between brain maps (or brain annotations). 
+- [ENIGMA TOOLBOX](https://github.com/MICA-MNI/ENIGMA) - The ENIGMA TOOLBOX is an open source repository for (i) accessing 100+ ENIGMA-derived statistical maps, (ii) visualizing and manipulating cortical and subcortical surface data, and (iii) contextualizing neuroimaging findings at the microscale (using postmortem gene expression and cytoarchitecture) and macroscale (using structural and functional connectome data).
+- [netneurotools](https://github.com/justinehansen/netneurotools) - This toolbox is a collection of functions written in Python that get frequent usage in the Network Neuroscience Lab, housed in the Brain Imaging Centre at McGill University.
 
 
 ## Books
