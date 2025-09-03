@@ -118,6 +118,7 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [Organization for Computational Neurosciences](https://www.cnsorg.org/)
 - [Organization for Human Brain Mapping](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3298)
 - [Organization for Computational Neuroscience](https://www.cnsorg.org/)
+- Computational and Systems Neuroscience (Cosyne)
 
 
 ## Journals
